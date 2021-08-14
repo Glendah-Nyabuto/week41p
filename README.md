@@ -4,7 +4,7 @@ The aim of this project is to analyze stations data to understand electric car u
 # Motivation 
 The project was done as part of the assessment for a Data Science Prep course.
 
-#Summary of the Analysis 
+# Summary of the Analysis 
 Statement of the Problem 
 Loading the Data
 Data Cleaning
@@ -15,9 +15,9 @@ Challenging the solution
 Recomendation 
 Conclution
 
-#Technologies Used
+# Technologies Used
 Python
 
-#Setup
+# Setup
 Use pandas library to understand the code
 
